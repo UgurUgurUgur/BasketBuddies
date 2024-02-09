@@ -40,7 +40,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) meaning it is free to use for personal usage only as long as appropriate credit is given to the original creator(s).
 
 ## Contact
 
