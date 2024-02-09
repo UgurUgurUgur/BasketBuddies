@@ -40,7 +40,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [Creative Commons-BY-NC Licence](https://creativecommons.org/licenses/by-nc/4.0/legalcode) meaning it is free to use for personal usage only as long as appropriate credit is given to the original creator(s).
+This project is licensed under the [Creative Commons BY-NC Licence](https://creativecommons.org/licenses/by-nc/4.0/legalcode) meaning it is free to use for personal usage only as long as appropriate credit is given to the original creator(s).
 
 ## Contact
 
