@@ -44,6 +44,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-Have questions or feedback? Feel free to reach out to us at [your.email@example.com](mailto:ugurkankaraca03@gmail.com).
+Have questions or feedback? Feel free to reach out to us at [ugurkankaraca03@gmail.com](mailto:ugurkankaraca03@gmail.com).
 
 ![BasketBuddies](assets/BasketBuddies.jpg)
