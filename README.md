@@ -40,10 +40,10 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) meaning it is free to use for personal usage only as long as appropriate credit is given to the original creator(s).
+This project is licensed under the [Creative Commons BY-NC Licence](https://creativecommons.org/licenses/by-nc/4.0/legalcode) meaning it is free to use for personal usage only as long as appropriate credit is given to the original creator(s).
 
 ## Contact
 
-Have questions or feedback? Feel free to reach out to us at [ugurkankaraca03@gmail.com](mailto:ugurkankaraca03@gmail.com).
+Have questions or feedback? Feel free to reach out to us at [ugurkankaraca03@gmail.com](mailto:ugurkankaraca03@gmail.com) for inquiries regarding commercial use.
 
 ![BasketBuddies](assets/BasketBuddies.jpg)
